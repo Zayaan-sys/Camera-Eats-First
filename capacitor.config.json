@@ -1,0 +1,8 @@
+{
+  "appId": "com.cameraeats.first",
+  "appName": "Camera Eats First",
+  "webDir": "build",
+  "server": {
+    "androidScheme": "https"
+  }
+}
